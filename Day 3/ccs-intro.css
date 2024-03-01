@@ -1,0 +1,36 @@
+
+/*Element selector*/
+h1{
+    color: rgb(85, 18, 178);
+}
+
+
+/*grouping selector,class selector*/
+h1,.par{
+    background-color: aquamarine;
+
+}
+
+/*ID selector*/
+#p1{
+    color: blueviolet;
+
+}
+
+#p2{
+    color: blue;
+
+}
+
+#p3{
+    color: brown;
+}
+
+/*Univesal selector*/
+*{
+    color: yellowgreen;
+}
+
+#hover:hover{
+    background-color: black;
+}

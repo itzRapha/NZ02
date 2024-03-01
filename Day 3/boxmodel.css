@@ -1,0 +1,28 @@
+p{
+    border:3px solid black;
+}
+
+.box1{
+    /*border-color: black;
+    border-top: 5px;
+    border-style: solid;*/
+    border: 5px dashed pink;
+    border-radius: 10px;
+}
+
+.box2{
+    background-color: aquamarine;
+    /*padding: 30px;*/
+    /*padding-top: 30px;*/
+    padding:20px 10px;
+}
+
+.box3{
+    /*margin: 50px;*/
+    margin:30px 20px 15px;
+}
+
+.box3{
+    width: 400px;
+    height: 500px;
+}

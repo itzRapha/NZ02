@@ -1,0 +1,29 @@
+.font-example{
+    font-family: Arial,Arial, Helvetica, sans-serif;
+    font: size 20px;
+}
+
+#formatting-example #bold{
+    font-weight: bold;
+
+}
+
+/*text aligment*/
+.aligment{
+    text-align:center;
+}
+
+.decor{
+    text-decoration: line-through;
+}
+
+.line-spacing{
+    line-height: 5px;
+    letter-spacing: 5px;
+
+}
+
+.shadow{
+    text-shadow:50px 2px 4px rgba(0, 0, 0, 0.5);
+}
+

@@ -1,0 +1,36 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+
+}
+
+div{
+    padding: 50px;
+    background-color: beige;
+}
+
+@media screen and(min-width:768px){
+    div {
+        padding: 100px;
+        background-color: skyblue;
+
+    }
+    div p{
+        font-size: 30px;
+        background-color: aquamarine;
+    }
+}
+
+@media screen and(min-width:1024px){
+    div {
+        padding: 120px;
+        background-color: pink;
+
+    }
+    div p{
+        font-size: 35px;
+        background-color: pink;
+    }
+}
+
